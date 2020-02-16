@@ -1,7 +1,7 @@
 {
-  "name": "app",
-  "short_name": "app",
-  "theme_color": "#1976d2",
+  "name": "சிவமயம்",
+  "short_name": "சிவமயம்",
+  "theme_color": "#f4511e",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
