@@ -2,7 +2,7 @@
   "name": "சிவமயம்",
   "short_name": "சிவமயம்",
   "theme_color": "#f4511e",
-  "background_color": "#fafafa",
+  "background_color": "#f4511e",
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
